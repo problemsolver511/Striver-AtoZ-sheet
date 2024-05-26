@@ -1,6 +1,6 @@
 class LargestElement{
 
-//Largest element in array 
+
     static int printLargestElement(int[] arr , int n ) {
 	
 	  int max = arr[0];
