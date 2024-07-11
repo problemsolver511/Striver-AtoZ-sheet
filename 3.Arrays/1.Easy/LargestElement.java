@@ -17,8 +17,6 @@ class LargestElement{
 	   return max ;
 	}
 		  
-
-
    public static void main(String[] arg){
    
    int[] arr = {2,0,10,30,55,23};
