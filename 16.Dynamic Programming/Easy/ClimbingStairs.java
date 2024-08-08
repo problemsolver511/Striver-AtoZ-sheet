@@ -7,7 +7,6 @@ import java.util.*;
 class ClimbingStairs{
 
 
-
 static int climbStairsRecursiveSolution(int n){
 
 	if( n <= 1)
